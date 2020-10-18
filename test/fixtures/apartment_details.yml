@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  housing_type: MyString
+  rent: 1
+  deposit: 1
+  bedrooms: 1
+  bathrooms: 1
+  available: 2020-06-27
+  sq_foot: 1
+  description: MyText
+  washer_dryer: false
+  laundry: false
+  pets: false
+  street_parking: false
+  parking: false
+  dishwasher: false
+  central_air: false
+  swimming_pool: false
+  gym: false
+  user: one
+  apartment: one
+
+two:
+  housing_type: MyString
+  rent: 1
+  deposit: 1
+  bedrooms: 1
+  bathrooms: 1
+  available: 2020-06-27
+  sq_foot: 1
+  description: MyText
+  washer_dryer: false
+  laundry: false
+  pets: false
+  street_parking: false
+  parking: false
+  dishwasher: false
+  central_air: false
+  swimming_pool: false
+  gym: false
+  user: two
+  apartment: two
